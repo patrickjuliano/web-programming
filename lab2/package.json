@@ -1,0 +1,11 @@
+{
+  "name": "cs-546-lab-2",
+  "version": "1.0.0",
+  "description": "Lab 2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Patrick Juliano 10451206",
+  "license": "ISC"
+}

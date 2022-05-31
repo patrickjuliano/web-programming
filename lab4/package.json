@@ -1,0 +1,14 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Patrick Juliano",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.4.1"
+  }
+}

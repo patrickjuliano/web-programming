@@ -1,0 +1,41 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+
+label {
+    font-weight: 100;
+}
+
+ul {
+    list-style-type: circle;
+}
+
+li {
+    padding: 2px 0px;
+}
+
+input, button {
+    padding: 2px 4px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+footer {
+    font-weight: bold;
+}
+
+.is-prime {
+    color: #00E676;
+}
+
+.not-prime, #error {
+    color: #FF3D00;
+}
+
+#error {
+    font-style: italic;
+}
