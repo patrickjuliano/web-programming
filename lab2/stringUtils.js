@@ -1,6 +1,3 @@
-// NOTE: Every time an empty string '' is passed in as an argument, it throws 'Input not supplied or undefined'
-//       rather than 'String must be of length greater than 0' due to the ordering. Figure out if this is a problem!
-
 function camelCase(string) {
     if (!string) throw 'Input not supplied or undefined';
     if (typeof string != "string") throw 'Input is not a string';
